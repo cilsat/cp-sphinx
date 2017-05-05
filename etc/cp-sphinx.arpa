@@ -1,0 +1,75 @@
+
+\data\
+ngram 1=17
+ngram 2=30
+ngram 3=15
+
+\1-grams:
+-0.30103	</s>
+-99	<s>	-99
+-1.475308	cerebralpalsy	-99
+-1.475308	jelas	-99
+-1.503337	laper	-99
+-1.475308	lemari	-99
+-1.475308	motor	-99
+-1.475308	murah	-99
+-1.475308	pergi	-99
+-1.475308	pulang	-99
+-1.475308	ralat	-99
+-1.475308	repot	-99
+-1.475308	rinal	-99
+-1.475308	sekarang	-99
+-1.475308	telor	-99
+-1.475308	toilet	-99
+-1.475308	ulang	-99
+
+\2-grams:
+-1.174278	<s> cerebralpalsy	0
+-1.174278	<s> jelas	0
+-1.202307	<s> laper	0
+-1.174278	<s> lemari	0
+-1.174278	<s> motor	0
+-1.174278	<s> murah	0
+-1.174278	<s> pergi	0
+-1.174278	<s> pulang	0
+-1.174278	<s> ralat	0
+-1.174278	<s> repot	0
+-1.174278	<s> rinal	0
+-1.174278	<s> sekarang	0
+-1.174278	<s> telor	0
+-1.174278	<s> toilet	0
+-1.174278	<s> ulang	0
+0	cerebralpalsy </s>
+0	jelas </s>
+0	laper </s>
+0	lemari </s>
+0	motor </s>
+0	murah </s>
+0	pergi </s>
+0	pulang </s>
+0	ralat </s>
+0	repot </s>
+0	rinal </s>
+0	sekarang </s>
+0	telor </s>
+0	toilet </s>
+0	ulang </s>
+
+\3-grams:
+0	<s> cerebralpalsy </s>
+0	<s> jelas </s>
+0	<s> laper </s>
+0	<s> lemari </s>
+0	<s> motor </s>
+0	<s> murah </s>
+0	<s> pergi </s>
+0	<s> pulang </s>
+0	<s> ralat </s>
+0	<s> repot </s>
+0	<s> rinal </s>
+0	<s> sekarang </s>
+0	<s> telor </s>
+0	<s> toilet </s>
+0	<s> ulang </s>
+
+\end\
